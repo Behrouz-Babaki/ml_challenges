@@ -1,0 +1,264 @@
+id,string
+rg1,Absurdist
+rg2,Action
+rg3,Action-adventure
+rg4,Adults
+rg5,Adventure
+rg6,Adventure novel
+rg7,African-American Literature
+rg8,Allegorical novel
+rg9,Anarchist
+rg10,Autobiographical Memoir
+rg11,Autobiographical novel
+rg12,Autobiography
+rg13,Bildungsroman
+rg14,Biography
+rg15,Black Comedy
+rg16,Buddhism
+rg17,Business
+rg18,Chick lit
+rg19,Children
+rg20,Children and fantasy
+rg21,Children's
+rg22,Children's Books
+rg23,Children's Fantasy
+rg24,Children's Fantasy novel
+rg25,Children's Novel
+rg26,Children's books
+rg27,Children's fantasy
+rg28,Children's fantasy novel
+rg29,Children's fantasy novels
+rg30,Children's literature
+rg31,Children's novel
+rg32,Children's novel and realistic fiction
+rg33,Children's textbook
+rg34,Chinese folk tale
+rg35,Chinese mythology
+rg36,Christian literature
+rg37,Comedic
+rg38,Comedy
+rg39,Coming-of-age story
+rg40,Conte philosophique
+rg41,Contemporary fantasy
+rg42,Crime
+rg43,Crime fiction
+rg44,Dark Fantasy
+rg45,Decadent literature  Art Nouveau literature
+rg46,Detective
+rg47,Diet
+rg48,Domestic fiction
+rg49,Drama
+rg50,Dramatic Fiction
+rg51,Economics
+rg52,Epic fantasy
+rg53,Erotic
+rg54,Essay and short story collection
+rg55,Existentialist
+rg56,Experimental fiction
+rg57,Fable
+rg58,Factual
+rg59,Family saga
+rg60,Family saga novel
+rg61,Fantastic
+rg62,Fantasy
+rg63,Fantasy novel
+rg64,Fantasy novels
+rg65,Fantasy satire
+rg66,Fiction
+rg67,Fictional
+rg68,Finance Book
+rg69,Folk
+rg70,Frame story
+rg71,Fratire
+rg72,Gamebook
+rg73,Greek and Roman mythology
+rg74,High fantasy
+rg75,Hindi Poem
+rg76,Historical
+rg77,Historical Fantasy
+rg78,Historical Fiction
+rg79,Historical fiction
+rg80,Historical novel
+rg81,Historical-Fiction
+rg82,History
+rg83,Horror
+rg84,Horror and fantasy
+rg85,Humor
+rg86,Humour
+rg87,Information and Reference Book
+rg88,Inspirational
+rg89,Instructional
+rg90,JP Marvelous Entertainment
+rg91,Juvenile
+rg92,Juvenile literature
+rg93,Kids
+rg94,Literary Criticism
+rg95,Literary fairy tale
+rg96,Literary fiction
+rg97,Love
+rg98,Love & Corruption
+rg99,Magic Realism
+rg100,Magic realism
+rg101,Magical girl
+rg102,Magical realism
+rg103,Marriage
+rg104,Memoir
+rg105,Modernist
+rg106,Mortality
+rg107,Motivational
+rg108,Music
+rg109,Mystery
+rg110,Mystery and Wonder
+rg111,Mystery and adventure
+rg112,Mystery fiction
+rg113,Mystery novel
+rg114,Mythological novel
+rg115,Mythology
+rg116,Mythopoeia
+rg117,NA Bold Games
+rg118,New Age
+rg119,Non-Fiction
+rg120,Non-fiction
+rg121,Non-fiction novel
+rg122,Nonfiction
+rg123,Novel
+rg124,Novel Drama
+rg125,Novel of manners
+rg126,Novella
+rg127,Parody
+rg128,Philosophical essay
+rg129,Philosophy
+rg130,Picaresque
+rg131,Plausible historical novel
+rg132,Poetry
+rg133,Political
+rg134,Political satire
+rg135,Post Apocalyptic
+rg136,Post-apocalyptic novel
+rg137,Post-apocalyptic novella
+rg138,Psychology
+rg139,Realistic Fiction
+rg140,Realistic fiction
+rg141,Reference
+rg142,Religion
+rg143,Religious
+rg144,Religious Fiction
+rg145,Romance
+rg146,Romance novel
+rg147,Satire
+rg148,School
+rg149,Sci-Fi
+rg150,Science
+rg151,Science Fiction
+rg152,Science Fiction
+humour
+rg153,Science fiction
+rg154,Self-help
+rg155,Semi-autobiographical novel
+rg156,Semi-autobiography
+rg157,Shenmo
+rg158,Short Story
+rg159,Social Commentary
+rg160,Social criticism
+rg161,Social science
+rg162,Sociological
+rg163,Southern Gothic novel
+rg164,Speculative fiction
+rg165,Spiritual
+rg166,Spiritual life
+rg167,Spirituality
+rg168,Spy
+rg169,Steampunk
+rg170,Stream of consciousness
+rg171,Sui generis
+rg172,Supernatural & Horror
+rg173,Surreal novel
+rg174,Survival horror
+rg175,Suspense
+rg176,Taoism
+rg177,Techno-thriller
+rg178,Teen Christian
+rg179,Teen Fiction
+rg180,Teen Science fiction
+rg181,Teens
+rg182,Thriller
+rg183,Thriller novel
+rg184,Tragedy
+rg185,Tragicomedy
+rg186,True crime
+rg187,Urban Fantasy
+rg188,War Memoir
+rg189,War novel
+rg190,World War II
+rg191,Young Adult
+rg192,Young Adult Literature
+rg193,Young adult
+rg194,Young adult Science fiction novel mystery fiction
+rg195,Young adult fantasy novel
+rg196,Young adult fiction
+rg197,Young adult literature
+rg198,Young-Adult Fiction
+rg199,Young-adult fiction
+rg200,Young-adult historical novel
+rg201,Young-adult science fiction novel
+rg202,Youth Fiction 12 and up. Young Adult
+rg203,absurdist fiction
+rg204,action
+rg205,adventure
+rg206,adventure fiction
+rg207,autobiography
+rg208,bildungsroman
+rg209,business
+rg210,children's books
+rg211,children's literature
+rg212,children's novel
+rg213,comedy
+rg214,cyberpunk
+rg215,day-school story
+rg216,drama
+rg217,dramedy
+rg218,dystopian fiction
+rg219,entrepreneurship
+rg220,family life
+rg221,fantasy
+rg222,farce
+rg223,fiction
+rg224,fix-up
+rg225,fratire
+rg226,historical fiction
+rg227,history
+rg228,horror
+rg229,horror fiction
+rg230,investing
+rg231,journal
+rg232,juvenile fiction
+rg233,magical realism
+rg234,memoir
+rg235,mystery
+rg236,mystery fiction
+rg237,mysticism
+rg238,non-fiction
+rg239,novel
+rg240,novella
+rg241,novellas
+rg242,personal finance
+rg243,philosophy
+rg244,picaresque novel
+rg245,picture books
+rg246,politics
+rg247,post-cyberpunk
+rg248,realistic fiction
+rg249,reference
+rg250,romance
+rg251,romantic
+rg252,satire
+rg253,science fiction
+rg254,see below
+rg255,short story anthology
+rg256,social commentary
+rg257,sociology
+rg258,suspense
+rg259,thriller
+rg260,war
+rg261,young adult
+rg262,yuri
